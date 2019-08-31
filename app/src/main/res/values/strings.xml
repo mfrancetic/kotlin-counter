@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinCounter</string>
+    <string name="counter_text_view">Number of visitors</string>
+    <string name="reset_button">Reset</string>
+    <string name="increase_button">+</string>
+    <string name="decrease_button">-</string>
+    <string name="toast_reset">The counter has been reset</string>
+    <string name="toast_counter_below_one">The number of visitors cannot be smaller than 1</string>
+    <string name="reset_button_content_description">Reset counter</string>
+    <string name="increase_button_content_description">Increase counter by 1</string>
+    <string name="decrease_button_content_description">Decrease counter by 1</string>
+</resources>
